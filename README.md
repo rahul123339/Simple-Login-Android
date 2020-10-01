@@ -1,4 +1,4 @@
-## SimpleLogin on Android
+## SimpleLogin application for android mobile phones
 ![License](https://img.shields.io/badge/license-Apache%202-blue.svg)
 
 SimpleLogin is an open source solution to protect your email inbox. This repository contains source code of SimpleLogin Android client.
